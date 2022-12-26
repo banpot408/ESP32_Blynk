@@ -1,0 +1,40 @@
+    mail.smtp.auth=true
+    mail.smtp.starttls.enable=true
+    mail.smtp.host=smtp.gmail.com
+    mail.smtp.port=587
+    mail.smtp.username=banpot.bes@gmail.com
+    mail.smtp.password=YaYa@123$
+	
+	
+	
+  java -jar server-0.41.16-java8.jar -dataFolder /blynk_server
+  
+  
+  
+Your Admin url is https://127.0.1.1:9443/admin
+Your Admin login email is admin@blynk.cc
+Your Admin password is 8QXT6gk1Hf5mlo3hM9UpRv7v
+
+
+
+
+
+{
+  "name": "banpot.bes@gmail.com",
+  "email": "banpot.bes@gmail.com",
+  "appName": "Blynk",
+  "region": "local",
+  "ip": "127.0.1.1",
+  "pass": "TqCa4nglqUcHg2Kd1D2FYq3EOL9my2MGODWjy3VEbrQ=",
+  "lastModifiedTs": 1666898212424,
+  "lastLoggedAt": 0,
+  "profile": {},
+  "isFacebookUser": false,
+  "isSuperAdmin": true,
+  "energy": 987654321,
+  "id": "banpot.bes@gmail.com-Blynk"
+}
+
+
+
+tnlbgvvhagdtxpek
